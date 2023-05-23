@@ -1,0 +1,61 @@
+
+body {
+    color: aliceblue;
+    text-align: center;
+    font-size: 100%;
+    background: linear-gradient(68.15deg,  #430e08 16.62%,  #cca67b 85.61% );        
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #661709;
+    color: rgb(112, 52, 18);
+    text-align: right;
+    padding: 14px;
+    
+    
+    }
+
+.peru{
+    background-color: rgb(78, 25, 4);
+    padding: 5px;
+}
+
+    img{
+        border-radius: 50%;
+    
+    }
+
+    principal.{
+        background-color: beige;
+        
+    }
+
+.li{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: rgb(185, 127, 76);
+    text-align: center;
+    padding: 15px;
+    
+  }
+
+.sob{
+    background-color: blanchedalmond;
+    color: rgb(86, 45, 5);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.bo{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+footer{
+    position;
+}
